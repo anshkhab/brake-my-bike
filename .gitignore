@@ -1,0 +1,15 @@
+# Compiled files
+*.o
+*.elf
+*.bin
+*.a
+
+# Build directories
+build/
+dist/
+
+# Editor settings
+.vscode/
+
+# macOS files
+.DS_Store
